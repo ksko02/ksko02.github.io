@@ -12,7 +12,7 @@ const config = {
 	kit: {
 		adapter: adapter(),	
 		paths: {
-			base: dev ? '' : '/sveltekit',
+			base: dev ? '' : '/ksko02.github.io',
 		},
 		prerender: {
 			default: true,
